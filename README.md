@@ -13,7 +13,6 @@
 
 I want to become the **first Filipino to make history in cybersecurity**, leading the charge in digital defense and malware research — all while still in **Grade 11**.
 
-I'm proving that age doesn't matter — dedication, passion, and purpose do.
 
 ---
 
