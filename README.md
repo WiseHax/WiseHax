@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Gerald Daniel</h1>
+<h1 align="center">👋 Hi, I'm WiseHax</h1>
 <h3 align="center">🇵🇭 Grade 11 Student | Future Cybersecurity Pioneer</h3>
 
 <p align="center">
