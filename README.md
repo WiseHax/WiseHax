@@ -110,4 +110,4 @@ Want to collaborate, chat cybersecurity, or support a student breaking into the 
 ---
 
 > _"Cybersecurity isn't just for experts — it's for those bold enough to challenge the unknown."_  
-> — **Gerald Daniel**
+> — **WiseHax**
