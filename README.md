@@ -23,14 +23,14 @@ I want to become the **first Filipino to make history in cybersecurity**, leadin
 
 UNFAZED is my flagship cybersecurity tool with advanced features:
 
-- 🔍 Static + Dynamic Analysis  
-- 🧠 AI-Assisted Malware Family Classification  
-- 🧬 MITRE ATT&CK Technique Mapping  
-- 🌐 Network Indicator Extraction (IPs, URLs, domains)  
-- 🧪 YARA Rule Scanning + OTX Intelligence  
-- 📂 Background Watcher for Auto-Scanning Files  
-- 📊 JSON Report Generation  
-- 🖥️ WPF GUI (in development with C#)
+-  Static + Dynamic Analysis  
+-  AI-Assisted Malware Family Classification  
+-  MITRE ATT&CK Technique Mapping  
+-  Network Indicator Extraction (IPs, URLs, domains)  
+-  YARA Rule Scanning + OTX Intelligence  
+-  Background Watcher for Auto-Scanning Files  
+-  JSON Report Generation  
+-  WPF GUI (in development with C#)
 
 ---
 
