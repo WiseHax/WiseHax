@@ -40,6 +40,10 @@ I strive to be independent, resourceful, and always eager to solve challenges.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiseHax&theme=radical" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/WiseHax/WiseHax/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## Let's Connect
