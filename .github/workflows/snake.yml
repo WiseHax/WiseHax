@@ -28,3 +28,4 @@ jobs:
         with:
           branch: output
           folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
