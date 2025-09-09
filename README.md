@@ -2,8 +2,13 @@
 <h3 align="center"> Grade 11 Student | Future Cybersecurity Pioneer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Malware%20Analyst-Rust%20%7C%20Python%20%7C%20YARA-orange?style=for-the-badge&logo=virus-total&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Python-Cybersecurity-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-Networking-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Malware%20Analysis-orange?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C++-Systems%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/YARA-Rule%20Writing-yellow?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Cybersecurity%20Aspirant-Filipino%20Pride-red?style=for-the-badge&logo=flag&logoColor=white" />
 </p>
 
@@ -41,7 +46,7 @@ I strive to be independent, resourceful, and always eager to solve challenges.
 </p>
 
 <p align="center">
-  <img src="https://github.com/WiseHax/WiseHax/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/WiseHax/WiseHax/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
