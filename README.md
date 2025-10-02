@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm WiseHax </h1>
-<h3 align="center"> Grade 11 Student | Future Cybersecurity Pioneer</h3>
+<h3 align="center"> Future Cybersecurity Pioneer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Cybersecurity-blue?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +53,7 @@ I strive to be independent, resourceful, and always eager to solve challenges.
 
 ## Let's Connect
 
-📫 **Email:** wyschan666@gmail.com  
+📫 **Email:** nigga@gmail.com  
 🐙 **GitHub:** [@WiseHax](https://github.com/WiseHax)  
 📍 **From:** Philippines  
 
