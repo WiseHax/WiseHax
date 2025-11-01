@@ -16,21 +16,19 @@
 
 ## About Me
 
-I am a passionate student driven by curiosity, discipline, and determination to push beyond limits.  
-I value persistence, creativity, and the mindset of never giving up on learning.  
-Focused on self-growth, I believe in building a strong foundation before chasing mastery.  
-I strive to be independent, resourceful, and always eager to solve challenges.  
+I build and break websites to understand how they really work.
+I move quiet, learn fast, and secure everything I touch.
 
 ---
 
 ## Personal Traits
 
-• Curious and detail-oriented  
-• Self-motivated learner  
-• Strong analytical and problem-solving mindset  
-• Dedicated to continuous improvement  
-• Resilient and adaptable in facing challenges  
-• Goal-driven with a long-term vision  
+• Moves quiet, learns fast, and leaves no trace behind.
+• Fueled by curiosity, driven by logic, and guided by precision.
+• Understands systems not just by studying them — but by breaking them.
+• Sees patterns where others see noise, and builds strength from every failure.
+• Stays off the radar, but always one step ahead.
+• Doesn’t chase fame — just mastery and control of the craft.
 
 ---
 
