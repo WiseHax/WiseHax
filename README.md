@@ -24,10 +24,15 @@ I move quiet, learn fast, and secure everything I touch.
 ## Personal Traits
 
 • Moves quiet, learns fast, and leaves no trace behind.
+
 • Fueled by curiosity, driven by logic, and guided by precision.
+
 • Understands systems not just by studying them — but by breaking them.
+
 • Sees patterns where others see noise, and builds strength from every failure.
+
 • Stays off the radar, but always one step ahead.
+
 • Doesn’t chase fame — just mastery and control of the craft.
 
 ---
