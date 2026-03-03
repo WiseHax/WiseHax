@@ -1,46 +1,41 @@
 <h1 align="center"> Hi, I'm WiseHax </h1>
-<h3 align="center"> Future Cybersecurity Pioneer</h3>
+<h3 align="center"> Aspiring Cybersecurity Engineer | Full-Stack Developer </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Cybersecurity-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-Networking-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-Malware%20Analysis-orange?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%20%2F%20C++-Systems%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/YARA-Rule%20Writing-yellow?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Cybersecurity%20Aspirant-Filipino%20Pride-red?style=for-the-badge&logo=flag&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-Backend%20%26%20Networking-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Automation%20%26%20Scripting-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-Fullstack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Systems%20Administration-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Enterprise%20Apps-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
 
-## About Me
+## 🛡️ Executive Summary
 
-I build and break websites to understand how they really work.
-I move quiet, learn fast, and secure everything I touch.
-
----
-
-## Personal Traits
-
-• Moves quiet, learns fast, and leaves no trace behind.
-
-• Fueled by curiosity, driven by logic, and guided by precision.
-
-• Understands systems not just by studying them — but by breaking them.
-
-• Sees patterns where others see noise, and builds strength from every failure.
-
-• Stays off the radar, but always one step ahead.
-
-• Doesn’t chase fame — just mastery and control of the craft.
+I am a security-focused developer dedicated to building resilient systems and understanding the mechanics of modern threats. My approach combines **Full-Stack development expertise** with a deep interest in **low-level systems programming** and **offensive security**. I specialize in creating secure applications while continuously auditing for vulnerabilities.
 
 ---
 
-## GitHub Stats
+## 🛠️ Technical Proficiency
+
+### 💻 Languages & Systems
+* **System Programming:** Rust (Memory safety focused), Go (High-performance networking), Java.
+* **Automation:** Python for security tooling, Bash for Linux systems administration.
+* **Web Ecosystem:** Laravel (PHP), Modern Full-Stack Development (HTML/CSS/JS).
+
+### 🔍 Security Interests
+* Developing custom security tools and automation scripts.
+* Malware analysis and reverse engineering using Rust/Python.
+* Web application penetration testing and secure coding practices.
+
+---
+
+## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiseHax&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WiseHax&show_icons=true&theme=radical&rank_icon=github" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseHax&layout=compact&theme=radical" height="180" />
 </p>
 
@@ -54,13 +49,12 @@ I move quiet, learn fast, and secure everything I touch.
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-📫 **Email:** nigga@gmail.com  
-🐙 **GitHub:** [@WiseHax](https://github.com/WiseHax)  
-📍 **From:** Philippines  
+* **GitHub:** [@WiseHax](https://github.com/WiseHax)
+* **Location:** Philippines 🇵🇭
+* **Goal:** Open for collaborations on Open Source security tools and Full-Stack projects.
 
 ---
 
-> _"Cybersecurity isn't just for experts. It is for those bold enough to challenge the unknown."_  
-> **WiseHax**
+> *"Security is not a product, but a process."* > **— Bruce Schneier**
