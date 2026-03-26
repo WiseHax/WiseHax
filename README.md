@@ -12,20 +12,20 @@
 
 ---
 
-## 🛡️ Executive Summary
+## Executive Summary
 
 I am a security-focused developer dedicated to building resilient systems and understanding the mechanics of modern threats. My approach combines **Full-Stack development expertise** with a deep interest in **low-level systems programming** and **offensive security**. I specialize in creating secure applications while continuously auditing for vulnerabilities.
 
 ---
 
-## 🛠️ Technical Proficiency
+## Technical Proficiency
 
-### 💻 Languages & Systems
+### Languages & Systems
 * **System Programming:** Rust (Memory safety focused), Go (High-performance networking), Java.
 * **Automation:** Python for security tooling, Bash for Linux systems administration.
 * **Web Ecosystem:** Laravel (PHP), Modern Full-Stack Development (HTML/CSS/JS).
 
-### 🔍 Security Interests
+### Security Interests
 * Developing custom security tools and automation scripts.
 * Malware analysis and reverse engineering using Rust/Python.
 * Web application penetration testing and secure coding practices.
@@ -49,7 +49,7 @@ I am a security-focused developer dedicated to building resilient systems and un
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 * **GitHub:** [@WiseHax](https://github.com/WiseHax)
 * **Location:** Philippines 🇵🇭
