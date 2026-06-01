@@ -1,60 +1,55 @@
-<h1 align="center"> Hi, I'm WiseHax </h1>
-<h3 align="center"> Aspiring Cybersecurity Engineer | Full-Stack Developer </h3>
+<h1 align="center">0xWxse</h1>
+<p align="center"><i>Systems Architecture & Cyber Security Engineering</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-Malware%20Analysis-orange?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-Backend%20%26%20Networking-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation%20%26%20Scripting-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-Fullstack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Systems%20Administration-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Enterprise%20Apps-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active-00FF00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Low--Level%20%26%20Offensive%20Security-black?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-Stripped%20/%20Binaries-orange?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-Concurrent%20Networking-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Tooling%20%26%20Automation-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-Enterprise%20Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-Systems%20Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 ---
 
-## Executive Summary
+### Core Overview
 
-I am a security-focused developer dedicated to building resilient systems and understanding the mechanics of modern threats. My approach combines **Full-Stack development expertise** with a deep interest in **low-level systems programming** and **offensive security**. I specialize in creating secure applications while continuously auditing for vulnerabilities.
-
----
-
-## Technical Proficiency
-
-### Languages & Systems
-* **System Programming:** Rust (Memory safety focused), Go (High-performance networking), Java.
-* **Automation:** Python for security tooling, Bash for Linux systems administration.
-* **Web Ecosystem:** Laravel (PHP), Modern Full-Stack Development (HTML/CSS/JS).
-
-### Security Interests
-* Developing custom security tools and automation scripts.
-* Malware analysis and reverse engineering using Rust/Python.
-* Web application penetration testing and secure coding practices.
+Full-stack developer and self-directed security researcher operating at the intersection of low-level systems programming and offensive security engineering. Focus lies in decoding binary structures, auditing application logic, and developing resilient backend architectures. Committed to building secure-by-design systems while reverse-engineering the mechanics of complex threats.
 
 ---
 
-## 📊 GitHub Ecosystem
+### Technical Capabilities
+
+#### Systems & Security Infrastructure
+* **Low-Level Development:** Engineering memory-safe utilities and specialized tooling using Rust.
+* **Network Engineering:** Designing high-performance, concurrent networking protocols and custom CLI engines in Go.
+* **Automation & Scripting:** Developing fast deployment workflows, Linux system scripts, and rapid-prototyping infrastructure via Python and Bash.
+* **Exploit Analysis:** Static and dynamic analysis of binary structures, PE validation, and vulnerability research.
+
+#### Web & Enterprise Architectures
+* **Backend Engines:** Designing heavily optimized, secure web applications leveraging Laravel (PHP) and robust RESTful APIs.
+* **Enterprise Solutions:** Structuring multi-tiered, platform-independent enterprise systems utilizing Java and C#.
+
+---
+
+### Git Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiseHax&show_icons=true&theme=radical&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseHax&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WiseHax&show_icons=true&theme=dark&rank_icon=github&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseHax&layout=compact&theme=dark&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiseHax&theme=radical" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/WiseHax/WiseHax/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiseHax&theme=dark&hide_border=true" height="150" />
 </p>
 
 ---
 
-## Let's Connect
+### Secure Communications
 
-* **GitHub:** [@WiseHax](https://github.com/WiseHax)
-* **Location:** Philippines 🇵🇭
-* **Goal:** Open for collaborations on Open Source security tools and Full-Stack projects.
-
----
-
-> *"Security is not a product, but a process."* > **— Bruce Schneier**
+* **Directory:** github.com/WiseHax
+* **Vector:** Open for collaboration on open-source core utilities, backend infrastructure, and security tooling.
