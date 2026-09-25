@@ -1,61 +1,115 @@
-<h1 align="center">0xWxse</h1>
-<p align="center"><i>Vulnerability Research & Applied Symbolic Execution</i></p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=620&lines=0xWxse;vulnerability+research;symbolic+execution+%2F%2F+binary+analysis;deterministic+over+probabilistic" alt="0xWxse" />
+
+<sub><code>SECURITY ENGINEERING</code> &nbsp;/&nbsp; <code>REVERSE ENGINEERING</code> &nbsp;/&nbsp; <code>FORMAL METHODS</code></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/status-active__research-0D1117?style=flat-square&labelColor=0D1117&color=00E5FF" />
+<img src="https://img.shields.io/badge/node-WiseHax-0D1117?style=flat-square&labelColor=0D1117&color=30363D" />
+<img src="https://img.shields.io/badge/open_to-collaboration-0D1117?style=flat-square&labelColor=0D1117&color=00E5FF" />
+
+</div>
+
+<br/>
+
+```text
+$ whoami
+  0xWxse :: security engineer in training, systems programmer
+
+$ cat ./principle
+  Prove the bug. Don't guess it.
+  Signatures describe what was seen before. Constraints describe what is possible.
+
+$ echo $FOCUS
+  vulnerability research | symbolic execution | malware dissection | memory-safe tooling
+```
+
+---
+
+### `0x00` &nbsp;Overview
+
+I work at the layer where software stops being abstract: machine code, memory, and the paths an attacker can actually reach. My research centers on **symbolic execution** and **SMT-backed analysis**, using solvers to reason about which states a program can enter instead of relying on pattern matching alone. Most of the tooling I build is written in **Rust**, because analysis software that parses hostile input should not be the weakest binary on the machine.
+
+---
+
+### `0x01` &nbsp;Research Tracks
+
+| Track | What I'm working on |
+| :--- | :--- |
+| **Symbolic Execution** | Encoding program paths as constraints and using Z3 to check reachability of memory-corruption states. |
+| **Binary De-obfuscation** | Lifting binaries to Ghidra P-Code / IR to statically resolve opaque predicates and undo control-flow flattening. |
+| **Malware Analysis** | A CLI engine for static and dynamic payload triage, with YARA integration and MITRE ATT&CK technique mapping. |
+| **Memory-Safe Tooling** | Vulnerability scanners, taint-analysis passes, and system hooks written in Rust. |
+| **Systems & OS** | Bare-metal experiments in C and assembly toward a minimal OS environment built for security work. |
+
+---
+
+### `0x02` &nbsp;Toolchain
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/x86__64_ASM-0D1117?style=flat-square&logo=intel&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Ghidra-0D1117?style=flat-square&logo=ghidra&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Z3_SMT-0D1117?style=flat-square&logo=microsoft&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/YARA-0D1117?style=flat-square&logo=virustotal&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0D1117?style=flat-square&logo=target&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00E5FF" />
+</p>
+
+<details>
+<summary><code>also builds</code> &nbsp;secure application backends</summary>
+<br/>
+
+Hardened web and enterprise systems, with attention to input validation, authorization boundaries, and data sanitization.
+
+<img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=8B949E" />
+<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=dotnet&logoColor=8B949E" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=8B949E" />
+
+</details>
+
+---
+
+### `0x03` &nbsp;Current Ops
+
+```diff
++ [running]   symbolic path explorer   :: Z3 constraint backend, Rust
++ [running]   malware triage CLI       :: YARA rules + ATT&CK mapping
+~ [research]  P-Code de-obfuscation    :: opaque predicate elimination
+~ [research]  taint analysis pass      :: source-to-sink tracking on lifted IR
+- [queued]    bare-metal security OS   :: boot + memory manager
+```
+
+---
+
+### `0x04` &nbsp;Telemetry
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Research-00FF00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Formal_Verification_%26_Malware_Dissection-black?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WiseHax&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseHax&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-Theorem_Proving_%26_Binaries-orange?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FAssembly-Bare_Metal_Execution-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-Concurrent_Telemetry-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-Enterprise_Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-Systems%20Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://streak-stats.demolab.com/?user=WiseHax&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="150" />
 </p>
 
 ---
 
-### 0x00: Core Overview
+### `0x05` &nbsp;Contact
 
-> *"Deterministic mathematics over probabilistic models."*
+```text
+directory   github.com/WiseHax
+interests   symbolic execution research, open-source core utilities, defensive tooling
+status      accepting collaboration requests
+```
 
-Systems programmer and security researcher focusing strictly on deterministic vulnerability research, formal verification, and offensive security architecture. Specializing in reverse-engineering advanced threats, bypassing military-grade obfuscation, and stripping malicious binaries down to their foundational logic. Committed to building analysis engines that rely on mathematical certainty rather than signature-based guesswork.
-
----
-
-### 0x01: Technical Architecture & Research
-
-#### Symbolic Execution & Threat Dissection
-* **Formal Verification:** Building unified analysis engines utilizing SMT Solvers (Z3) to mathematically evaluate memory corruption states and prove execution paths.
-* **Binary De-obfuscation:** Extracting and evaluating P-Code / Intermediate Representation (IR) to statically bypass opaque predicates and control flow flattening in advanced malware.
-* **Malware Analysis:** Developing proprietary CLI engines for static/dynamic payload dissection, YARA integration, and MITRE ATT&CK mapping.
-
-#### Low-Level Systems Engineering
-* **Memory-Safe Tooling:** Engineering high-performance vulnerability scanners, taint analysis modules, and system hooks entirely in Rust.
-* **Kernel & OS Concepts:** Designing foundational architecture for bare-metal execution and secure operating system environments built for specialized cybersecurity tasks.
-
-#### Secure Enterprise Infrastructure
-* **Backend Engines:** Designing heavily optimized, highly secure web applications leveraging Laravel (PHP) and robust RESTful APIs.
-* **Enterprise Solutions:** Structuring multi-tiered, platform-independent enterprise systems utilizing C# and Java, ensuring strict data sanitization and memory safety.
-
----
-
-### 0x02: Git Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiseHax&show_icons=true&theme=dark&rank_icon=github&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseHax&layout=compact&theme=dark&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiseHax&theme=dark&hide_border=true" height="150" />
-</p>
-
----
-
-### 0x03: Secure Communications
-
-* **Directory:** [github.com/WiseHax](https://github.com/WiseHax)
-* **Vector:** Open for collaboration on symbolic execution research, open-source core utilities, and defensive security tooling.
+<div align="center">
+<sub><code>// end of transmission</code></sub>
+</div>
