@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=rust,c,go,python,bash,kali&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,c,go,python,bash,linux&theme=dark" />
 
 <br/><br/>
 
