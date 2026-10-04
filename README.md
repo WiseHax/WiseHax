@@ -1,17 +1,31 @@
 <div align="center">
 
-<h1>0xWxse</h1>
+<a href="https://www.rust-lang.org/" title="Rust">
+  <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="55"/>
+</a>
 
-<sub>
-<code>ETHICAL HACKING</code>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<code>REVERSE ENGINEERING</code>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<code>LOW LEVEL</code>
-</sub>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="55"/>
+</a>
+
+<a href="https://go.dev/" title="Go">
+  <img src="https://skillicons.dev/icons?i=go&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.python.org/" title="Python">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/" title="Bash">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="55"/>
+</a>
+
+<a href="https://kernel.org/" title="Linux">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="55"/>
+</a>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=rust,c,go,python,bash,linux&theme=dark" />
+<sub><code>some things are better left unexplained.</code></sub>
 
 </div>
